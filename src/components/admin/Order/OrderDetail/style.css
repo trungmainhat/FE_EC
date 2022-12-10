@@ -1,0 +1,30 @@
+.order_detail_root {
+  max-height: 500px;
+  overflow-y: scroll;
+  padding-bottom: 20px;
+}
+.detail-order {
+  background-color: var(--bs-white);
+  box-shadow: 5px 10px 10px grey;
+  border-radius: 10px;
+}
+.image_detail_order {
+  padding: 10px 20px;
+}
+.total_order_detail {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto !important;
+}
+.border-cl-bill{
+  border-top:8px solid #fa4d18 !important;
+  opacity:0.7 !important;
+
+}
+.avatar-company{
+  width: 6rem;
+}
+/* .print_pdf {
+  display: none;
+} */
